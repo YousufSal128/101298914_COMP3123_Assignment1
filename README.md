@@ -1,1 +1,1 @@
-# 101298914_COMP3123_Assignment1
+# COMP 3123 Assignment 1
